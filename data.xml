@@ -1,0 +1,21 @@
+<AICOMPANIES>
+    <nvida>
+        <CEO gender="male">Jen-Hsun Huang</CEO>
+        <Country>USA</Country>
+        <Worth>4.57b</Worth>
+        <WhenFounded>1993</WhenFounded>
+    </nvida>
+    <microsoft>
+        <CEO gender="male">Satya Nadella</CEO>
+        <Country>USA</Country>
+        <Worth>3.69b</Worth>
+        <WhenFounded>1975</WhenFounded>
+    </microsoft>
+    <ibm>
+        <CEO gender="male">Arvind Krishna</CEO>
+        <Country>USA</Country>
+        <Worth>292m</Worth>
+        <WhenFounded>1911</WhenFounded>
+    </ibm>
+</AICOMPANIES>
+
