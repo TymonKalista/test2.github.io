@@ -17,3 +17,13 @@
 .main_source:hover {
     background-color: blue;
 }
+.h13{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+.zdjecie{
+    height: 200px;
+    width:200px;
+    margin-right:1cm;
+    border: 2px solid red;
+}
