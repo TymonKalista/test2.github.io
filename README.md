@@ -1,1 +1,3 @@
-# test2.github.io
+- Kamil  Bagniuk 241852 zad3,5
+- Krzysztof Gałgan 242374 zad2
+- Tymon Kalista 242241 zad1,4

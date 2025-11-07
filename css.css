@@ -1,3 +1,55 @@
+.main_link {
+    text-align: center;
+}
+
+.main_headder {
+    text-align: center;
+    color: green;
+}
+
+.main_p {
+    text-align: justify;
+     font-style: italic;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+.main_source:hover {
+    background-color: blue;
+}
+
+.column {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.box {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width:600px) {
+    .box {
+        flex-direction: column;
+    }
+}
+.h13{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+.autorzy{
+    border:2px solid  black;
+    font-weight: bold;
+}
+.zdjecie{
+    height: 200px;
+    width:200px;
+    margin-right:1cm;
+    border: 2px solid red;
+}
 .hdate{
     text-align: center;
     margin-bottom: 1cm;
