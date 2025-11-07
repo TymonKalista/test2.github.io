@@ -1,0 +1,20 @@
+[
+    {
+        "name":"NVIDIA",
+        "WhenFounded":1993,
+        "Worth in Billions":4.57,
+        "IsAmerican":true
+    },
+    {
+        "name":"Microsoft",
+        "WhenFounded":1975,
+        "Worth in Billions":3.69,
+        "IsAmerican":true
+    },
+    {
+        "name":"IBM",
+        "WhenFounded":1911,
+        "IsAmerican":true,
+        "Worth in Billions":0.2
+    }
+]
