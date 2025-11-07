@@ -46,3 +46,12 @@
     margin-right:1cm;
     border: 2px solid red;
 }
+input[type="submit"] {
+    background-color: orange;
+    margin-right: 1cm;
+}
+
+.form_header {
+    text-align: center;
+    margin-bottom: 1cm;
+}
