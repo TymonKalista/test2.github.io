@@ -75,3 +75,8 @@ input[type="submit"] {
     text-align: center;
     margin-bottom: 1cm;
 }
+
+input[type="text"],
+input[type="email"] {
+    background-color: blue;
+}
