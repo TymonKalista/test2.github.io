@@ -1,0 +1,19 @@
+.main_link {
+    text-align: center;
+}
+
+.main_headder {
+    text-align: center;
+    color: green;
+}
+
+.main_p {
+    text-align: justify;
+     font-style: italic;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+.main_source:hover {
+    background-color: blue;
+}
